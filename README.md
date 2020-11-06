@@ -1,1 +1,2 @@
 # Vehicle_health_monitoring
+An IoT hackathon held in college based on embedded system design got out of hand and we ended up desinging an integrated IoT system that with appropriate sensors and capabilities may or may not tell the serivce centre if the driver is usually drunk driving, talking on the phone or is just a bad driver and is aggressive with his gear shifts so much so that the gearbox assembly was just turned into powderized metal.
